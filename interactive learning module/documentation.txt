@@ -1,0 +1,11 @@
+The website is about an idividual project that has been given as the assignment.The website is about online hacking lessons with additional lessons about docker node.js and python.
+  However the main subject is hacking.The website consists the proper built html structure with css features such as animations and sudo elements.There are 5 videos that was were takne from you tube as a given 
+  material.All 5 videos are about the hacking with control pannel however without of autoplay because 5 videos can diturb each other.The website design is a bit minimalistic with righ choosen color-mixtures.
+  It should be noted that texts of web site is a biit unique mainly its on humor style just for being different than other.
+
+  Resources:
+  for photos = google.com.
+  icons = boxicon.com.
+  videos = you tube.com
+  fonts = google fonts.com.
+  
